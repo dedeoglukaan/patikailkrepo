@@ -5,7 +5,7 @@ Bu repo Patika Garanti BBVA Siber Akademi eğitiminde oluşturduğumuz ilk repo.
 
 ## Installation
 
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın.
 
 ```bash
 git clone https://github.com/dedeoglukaan/patikailkrepo.git
